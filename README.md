@@ -1,0 +1,1 @@
+# traductor-autom-tico-de-ESP-a-PTG---AL-Business-Central-
