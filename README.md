@@ -17,7 +17,7 @@ pip install googletrans==4.0.0-rc1
 
 ## Uso
 
-1. Clona este repositorio.
+1. Descarga el script en python.
 2. Asegúrate de tener todos los requisitos instalados.
 3. Modifica la variable project_path en el script principal para que apunte a la ruta de tu proyecto.
 4. Ejecuta el script:
