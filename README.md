@@ -1,4 +1,4 @@
-echo "# Proyecto de Traducción de Comentarios
+## Proyecto de Traducción de Comentarios
 
 Este proyecto tiene como objetivo traducir comentarios en archivos .al del español al portugués utilizando la biblioteca googletrans.
 
@@ -12,10 +12,7 @@ El script recorre un proyecto, encuentra todos los comentarios en los archivos .
 - Biblioteca googletrans
 
 Puedes instalar la biblioteca googletrans usando pip:
-
-\`\`\`bash
 pip install googletrans==4.0.0-rc1
-\`\`\`
 
 ## Uso
 
@@ -23,7 +20,6 @@ pip install googletrans==4.0.0-rc1
 2. Asegúrate de tener todos los requisitos instalados.
 3. Modifica la variable project_path en el script principal para que apunte a la ruta de tu proyecto.
 4. Ejecuta el script:
-
 
 python nombre_del_script.py
 
