@@ -12,6 +12,7 @@ El script recorre un proyecto, encuentra todos los comentarios en los archivos .
 - Biblioteca googletrans
 
 Puedes instalar la biblioteca googletrans usando pip:
+
 pip install googletrans==4.0.0-rc1
 
 ## Uso
